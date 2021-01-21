@@ -26,7 +26,7 @@
     "https": "^1.0.0",
     "mysql": "^2.17.1",
     "openssl-nodejs": "^1.0.5",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
